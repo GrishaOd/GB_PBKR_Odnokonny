@@ -17,3 +17,27 @@ for(int i = 0; i < array.Length; i++)
 }
 return array;
 }
+
+string[] FilterArrayByLength(string[] array, int length)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= length)
+        {
+            count++;
+        }
+    }
+    string[] newArray = new string[count];
+    int j = 0;
+    for (int i = 0; i < array.length; i++)
+    {
+        if (array[i].Length <= length)
+        {
+            newArray[j] = array[i];
+            j++;
+        }
+    }
+
+    return newArray;
+}
