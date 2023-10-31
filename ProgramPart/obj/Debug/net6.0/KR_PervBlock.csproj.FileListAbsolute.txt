@@ -1,0 +1,15 @@
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.csproj.AssemblyReference.cache
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.GeneratedMSBuildEditorConfig.editorconfig
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.AssemblyInfoInputs.cache
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.AssemblyInfo.cs
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.csproj.CoreCompileInputs.cache
+E:\kursygrisha\KR_PervBlock\ProgramPart\bin\Debug\net6.0\KR_PervBlock.exe
+E:\kursygrisha\KR_PervBlock\ProgramPart\bin\Debug\net6.0\KR_PervBlock.deps.json
+E:\kursygrisha\KR_PervBlock\ProgramPart\bin\Debug\net6.0\KR_PervBlock.runtimeconfig.json
+E:\kursygrisha\KR_PervBlock\ProgramPart\bin\Debug\net6.0\KR_PervBlock.dll
+E:\kursygrisha\KR_PervBlock\ProgramPart\bin\Debug\net6.0\KR_PervBlock.pdb
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.dll
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\refint\KR_PervBlock.dll
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.pdb
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\KR_PervBlock.genruntimeconfig.cache
+E:\kursygrisha\KR_PervBlock\ProgramPart\obj\Debug\net6.0\ref\KR_PervBlock.dll
