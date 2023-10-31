@@ -7,3 +7,13 @@ for (int i = 0; i < arlength; i++)
 }
 return array;
 }
+
+string[] PrintArray (string[] array)
+{
+for(int i = 0; i < array.Length; i++)
+{
+    
+    Console.Write($"{array[i]} ");
+}
+return array;
+}
